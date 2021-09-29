@@ -53,7 +53,7 @@ body {
 }
 
 .projetos {
-  max-height: 700px;
+  max-height: 650px;
   overflow-y: scroll;
   scrollbar-width: thin;
   display: flex;
